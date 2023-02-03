@@ -17,11 +17,7 @@ I´m a student at UPIICSA. I'm studying computer science. I love to learn new th
 * <img src= "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="20"> GIT
 * <img src= "https://www.vectorlogo.zone/logos/github/github-tile.svg" width="20"> GitHub 
 
-<h2 align="center">Contact Information</h2>
 
-* <img src= "https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" width="20"> [Luis Mario Solano](https://www.facebook.com/profile.php?id=100078139746703)
-* <img src= "https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="20"> [Luis Mario Solano García](www.linkedin.com/in/luis-mario-solano-garcía-412a26250)
-* 
 
 <h2 align="center">More about me</h2>
 
@@ -30,6 +26,14 @@ I´m a student at UPIICSA. I'm studying computer science. I love to learn new th
 - :tv: My favourite serie is Rick & Morty
 - :musical_score: My favourite type of music ir reggaeton
 - :hamburger: My favorite dish is chilaquiles
+
+<h2 align="center">Contact Information</h2>
+
+* <img src= "https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="20"> [Luis Mario Solano García](www.linkedin.com/in/luis-mario-solano-garcía-412a26250)
+* <img src= "https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" width="20"> [Luis Mario Solano](https://www.facebook.com/profile.php?id=100078139746703)
+* <img src= "https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="20"> [lmario_sg](https://www.instagram.com/lmario_sg/)
+* <img src= "https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" width="20"> [mayitosga](https://twitter.com/mayitosga)
+
 
 <p align="center"> 
   <img src="https://media.giphy.com/media/NGp9QCXJcBPuU/giphy.gif" width="800">
