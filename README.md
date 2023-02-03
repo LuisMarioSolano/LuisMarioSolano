@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">I´m Mario. Welcome to my profile</h1>
-I´m a student at UPIICSA. I'm studying computer science. I love to learn new things and technology is great for learning. I used to study architecture but not anymore. Now, I want to dedicate myself to the design an programming of web pages. I would like to learn UX/UI design and discover new devopment tools. For now, I know the following tools: 
+I´m a student at UPIICSA. I'm studying computer science. I love to learn new things and technology is great for learning. I used to study architecture but not anymore. Now, I want to dedicate myself to the design an programming of web pages. I would like to learn UX/UI design and discover new development tools. For now, I know the following tools: 
 
 <h2 align="center">Tools</h2>
 
