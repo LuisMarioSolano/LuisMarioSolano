@@ -5,7 +5,7 @@
 <h1 align="center">I´m Mario. Welcome to my profile :v:</h1>
 I´m a student at UPIICSA. I'm studying computer science. I love to learn new things and technology is great for learning. I used to study architecture but not anymore. Now, I want to dedicate myself to the design an programming of web pages. I would like to learn UX/UI design and discover new development tools. For now, I know the following tools: 
 
-<h2 align="center">Tools :computer:</h2>
+## Tools :computer:
 
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280">
 
@@ -19,9 +19,7 @@ I´m a student at UPIICSA. I'm studying computer science. I love to learn new th
 * <img src= "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="20"> GIT
 * <img src= "https://www.vectorlogo.zone/logos/github/github-tile.svg" width="20"> GitHub 
 
-
-
-<h2 align="center">More about me :bow:</h2> 
+## More about me :bow: 
 
 <img align='right' src="https://media.giphy.com/media/4Z3lfPky1pLr0eSzTH/giphy.gif" width="260">
 
@@ -31,7 +29,7 @@ I´m a student at UPIICSA. I'm studying computer science. I love to learn new th
 - :musical_score: My favourite type of music ir reggaeton
 - :hamburger: My favorite dish is chilaquiles
 
-<h2 align="center">Contact Information :telephone_receiver:</h2>
+## Contact Information :telephone_receiver:
 
 * <img src= "https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="20"> [Luis Mario Solano García](https://www.linkedin.com/in/luis-mario-solano-garc%C3%ADa-412a26250/)
 * <img src= "https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" width="20"> [Luis Mario Solano](https://www.facebook.com/profile.php?id=100078139746703)
