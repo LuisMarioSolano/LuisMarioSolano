@@ -2,7 +2,7 @@
 <img  alt="GIF" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="700">
 </p>
 
-<h1 align="center">I´m Mario. Welcome to my profile</h1>
+<h1 align="center">I´m Mario. Welcome to my profile :v:</h1>
 I´m a student at UPIICSA. I'm studying computer science. I love to learn new things and technology is great for learning. I used to study architecture but not anymore. Now, I want to dedicate myself to the design an programming of web pages. I would like to learn UX/UI design and discover new development tools. For now, I know the following tools: 
 
 <h2 align="center">Tools :computer:</h2>
@@ -21,9 +21,9 @@ I´m a student at UPIICSA. I'm studying computer science. I love to learn new th
 
 
 
-<h2 align="center">More about me</h2> 
+<h2 align="center">More about me :bow:</h2> 
 
-<img align='right' src="https://media.giphy.com/media/4Z3lfPky1pLr0eSzTH/giphy.gif" width="280">
+<img align='right' src="https://media.giphy.com/media/4Z3lfPky1pLr0eSzTH/giphy.gif" width="260">
 
 - :basketball: I love to play basketball
 - :video_game: I like videogames my favourite game is The Last of Us
@@ -31,14 +31,14 @@ I´m a student at UPIICSA. I'm studying computer science. I love to learn new th
 - :musical_score: My favourite type of music ir reggaeton
 - :hamburger: My favorite dish is chilaquiles
 
-<h2 align="center">Contact Information</h2>
+<h2 align="center">Contact Information :telephone_receiver:</h2>
 
 * <img src= "https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="20"> [Luis Mario Solano García](https://www.linkedin.com/in/luis-mario-solano-garc%C3%ADa-412a26250/)
 * <img src= "https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" width="20"> [Luis Mario Solano](https://www.facebook.com/profile.php?id=100078139746703)
 * <img src= "https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="20"> [lmario_sg](https://www.instagram.com/lmario_sg/)
 * <img src= "https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" width="20"> [mayitosga](https://twitter.com/mayitosga)
 
-<h2 align="center">Come back soon my friend!</h2> 
+<h2 align="center">See you soon!</h2> 
 <p align="center"> 
   <img src="https://media.giphy.com/media/NGp9QCXJcBPuU/giphy.gif" width="800">
 </p>
