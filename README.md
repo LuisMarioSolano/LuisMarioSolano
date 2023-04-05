@@ -31,7 +31,7 @@ I´m a student at UPIICSA. I'm studying computer science. I love to learn new th
 
 ## Contact Information :telephone_receiver:
 
-* <img src= "https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="20"> [Luis Mario Solano García](https://www.linkedin.com/in/luis-mario-solano-garc%C3%ADa-412a26250/)
+* <img src= "https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="20"> [Luis Mario Solano García](https://www.linkedin.com/in/luis-mario-solano-garc%C3%ADa/)
 * <img src= "https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" width="20"> [Luis Mario Solano](https://www.facebook.com/profile.php?id=100078139746703)
 * <img src= "https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="20"> [lmario_sg](https://www.instagram.com/lmario_sg/)
 * <img src= "https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" width="20"> [mayitosga](https://twitter.com/mayitosga)
