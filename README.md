@@ -7,7 +7,6 @@ I´m a student at UPIICSA. I'm studying computer science. I love to learn new th
 
 ## Tools :computer:
 
-<img align='right' src="https://media.giphy.com/media/4Z3lfPky1pLr0eSzTH/giphy.gif" >
 
 * <img src= "https://cdn-icons-png.flaticon.com/512/174/174854.png" width="20"> HTML                  
 * <img src= "https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="20"> CSS
