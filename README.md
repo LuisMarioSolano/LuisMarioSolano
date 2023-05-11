@@ -1,5 +1,5 @@
 <p align="center">
-<img  alt="GIF" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="700">
+<img  alt="GIF" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="100%">
 </p>
 
 <h1 align="center">I´m Mario. Welcome to my profile :v:</h1>
@@ -29,5 +29,5 @@ I´m a student at UPIICSA. I'm studying computer science. I love to learn new th
 
 <h2 align="center">See you soon!</h2> 
 <p align="center"> 
-  <img src="https://media.giphy.com/media/NGp9QCXJcBPuU/giphy.gif" width="800">
+  <img src="https://media.giphy.com/media/NGp9QCXJcBPuU/giphy.gif" width="100%">
 </p>
