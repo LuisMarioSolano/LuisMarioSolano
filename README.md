@@ -12,7 +12,6 @@ I´m a student at UPIICSA. I'm studying computer science. I love to learn new th
 * <img src= "https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="20"> CSS
 * <img src= "https://github.com/LuisMarioSolano/LuisMarioSolano/assets/92195194/204c4757-b740-41e7-8e87-1821c4e17936" width="30"> SASS
 * <img src= "https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" width="20"> JavaScript
-* <img src= "https://www.vectorlogo.zone/logos/php/php-ar21.svg" width="30"> PHP
 * <img src= "https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="20"> MySQL
 * <img src= "https://staruml.io/image/staruml_logo.png" width="20"> Star UML
 * <img src= "https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="20"> Visual Studio Code
